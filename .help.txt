@@ -1,0 +1,2 @@
+nasm -f elf32 FILE
+objdump -M intel -d FILE.o
